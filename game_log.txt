@@ -1,0 +1,6 @@
+2024-11-26 12:20:33,355 - Player X played at position (0, 2)
+2024-11-26 12:20:33,699 - Player O played at position (0, 1)
+2024-11-26 12:20:34,055 - Player X played at position (1, 0)
+2024-11-26 12:20:34,680 - Player O played at position (1, 1)
+2024-11-26 12:20:35,047 - Player X played at position (2, 0)
+2024-11-26 12:20:35,421 - Player O played at position (2, 1)

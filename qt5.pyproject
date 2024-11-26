@@ -1,0 +1,3 @@
+{
+    "files": ["menu.py","SettingsWidget.py","main.py","xogamewidget.py","StatsWidget.py","XOGameModel.py","TestXOGameModel.py"]
+}
